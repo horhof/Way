@@ -6,11 +6,11 @@ There is a cause and requistite condition for the defilement and for the purific
 
 If these:
 
-1. form
-2. feeling
-3. perception
-4. fabrication
-5. consciousness
+1. [form(66)](../terms/66-form.md)
+2. [feeling(43)](../terms/43-feelingk.md)
+3. [perception(19)](../terms/19-perception.md)
+4. [fabrication(12)](../terms/12-fabrication.md)
+5. [consciousness(98)](../terms/98-consciousness.md)
 
 --were exclusively:
 
@@ -34,8 +34,7 @@ This is the cause, this the requisite condition, for the purification of beings.
 
 [SN 22.60](https://suttacentral.net/sn22.60)
 
-
-* [Pāli](https://suttacentral.net/pi/sn22.60)
+* [Pāli](https://suttacentral.net/sn22.60/pli/ms)
 * [Bodhi](https://suttacentral.net/sn22.60/en/bodhi)
 * [Sujato](https://suttacentral.net/sn22.60/en/sujato)
 * [Ṭhānissaro](https://www.dhammatalks.org/suttas/SN/SN22_60.html)
